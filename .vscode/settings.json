@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "2Dlab10.sln"
+    "dotnet.defaultSolution": "tanapat-gi204-lab10-physics2d.sln"
 }
